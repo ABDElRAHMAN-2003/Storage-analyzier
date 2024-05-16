@@ -5,4 +5,5 @@
 
 
 ## Here is the App preivew
-![Uploading app_preview.png…]()
+
+![app_preview](https://github.com/ABDElRAHMAN-2003/Storage-analyzier/assets/104719732/4b2a9fab-ecd5-4a12-acf8-6e8ab50a54be)
